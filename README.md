@@ -10,3 +10,5 @@
 * Hyperparameter Tuning
 * Model Selection
 * Utilizing model outputs to make a business decision
+
+## Dataset: This is a churn dataset curated by Delina Ivanova. Each record in the dataset is with regards to a specific customer. It identifies various features about each customer (such as age, location, monthly spend, etc.) and whether or not the customer churned.
